@@ -5,3 +5,8 @@
 🌱 My current learning interests are React, Typescript and cooking 🥘
 
 🌐 Living in Brazil 🇧🇷
+
+You can find/contact me on:
+- [Linkedin](https://www.linkedin.com/in/giovanidesousa/)
+- [Website/Blog](https://giovanisleite.dev/)
+- [dev.to](https://dev.to/giovanisleite)
