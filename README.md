@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I'm currently working on [thoughtbot](https://thoughtbot.com/) through [Toptal](https://topt.al/W8cKD8) as a React and Rails developer.
+🔭 I'm currently working at [FrontrowMD](https://thefrontrowhealth.com/) as a React and Rails senior developer.
 
-🌱 My current learning interests are React, Typescript and cooking 🥘
+🌱 My current learning interests are running, swimming and cooking 🥘
 
 🌐 Living in Brazil 🇧🇷
 
